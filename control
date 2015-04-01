@@ -1,0 +1,9 @@
+Package: com.lulinxuan.hometouch
+Name: SBTest
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: virtual touch id
+Maintainer: lulinxuan
+Author: lulinxuan
+Section: Tweaks
